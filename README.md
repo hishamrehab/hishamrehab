@@ -37,9 +37,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hishamrehab&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="180" alt="languages graph" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hishamrehab&theme=radical&hide_border=true" height="180" alt="streak graph" />
-</div>
 
 <br/>
 
