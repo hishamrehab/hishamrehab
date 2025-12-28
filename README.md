@@ -1,4 +1,4 @@
-<div align="center">
+<div align="start">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00C8FF&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Hisham+Saeed+Rehab;Frontend+Engineer+%7C+React+%26+Next.js;Building+immersive+%26+performant+web+experiences" alt="Typing SVG" />
 </div>
 
