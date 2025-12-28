@@ -4,6 +4,9 @@
 
 <br/>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=hishamrehab&style=flat-square&color=blue" alt="Profile Views"/>
+</div>
 
 <br/>
 
