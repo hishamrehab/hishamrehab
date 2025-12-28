@@ -1,5 +1,11 @@
-<div align="start">
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00C8FF&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Hisham+Saeed+Rehab;Frontend+Engineer+%7C+React+%26+Next.js;Building+immersive+%26+performant+web+experiences" alt="Typing SVG" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=hishamrehab&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
 
 <br/>
@@ -27,105 +33,66 @@
 
 <!-- Quick stats -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hishamrehab&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hishamrehab&theme=radical&hide_border=true" height="150" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hishamrehab&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hishamrehab&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="180" alt="languages graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hishamrehab&theme=radical&hide_border=true" height="180" alt="streak graph" />
 </div>
 
 <br/>
 
 ## 👨‍💻 About Me
 
-Passionate **Frontend Engineer** from **Cairo, Egypt** with expertise in building **pixel-perfect**, **high-performance**, and **interactive** web applications.
+I'm a passionate **Frontend Engineer** based in **Cairo, Egypt**, specializing in **React.js** and **Next.js**. With a background in Communications and Computer Engineering, I build interactive, high-performance web applications that deliver seamless user experiences.
 
-I specialize in **React** ecosystems, modern animations (GSAP, Framer Motion, Three.js), state management, performance optimization, and increasingly full-stack solutions using **Next.js**, **TypeScript**, and **Directus**.
+- **Current Role:** Full Stack Developer at DATAC (Jan 2025 – Present), where I single-handedly deliver CMS-driven projects using React, Next.js, TypeScript, and Directus.
+- **Freelance Experience:** Developing responsive web apps with a focus on user engagement and scalability (Feb 2024 – 2025).
+- **Education:** Bachelor of Engineering from Faculty of Engineering; Nano-degree in Front-End Development from Information Technology Institute (ITI).
 
-Currently focused on:
-- Immersive UI/UX with 3D and advanced animations
-- Scalable SaaS platforms and CMS-driven apps
-- Clean architecture & best practices
+I'm proficient in modern JavaScript (ES6+), animations with GSAP/Framer Motion/Three.js, state management (Redux Toolkit, React Query, Zustand), and full-stack tools like Node.js, GraphQL, and Docker. I thrive in agile teams, emphasizing clean architecture, OOP, DSA, and system design.
 
-Open to **remote** / **hybrid** **Frontend** & **Full-Stack** opportunities 🚀
+Open to **remote/hybrid opportunities** in frontend/full-stack development. Let's connect! 🚀
 
 <br/>
 
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,threejs,gsap,html,css,git,docker,vite,vercel,figma,nodejs,graphql,postgres" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,threejs,gsap,html,css,git,docker,vite,vercel,nodejs,graphql,postgres,firebase" alt="Tech Stack" />
 </div>
 
 ### Frontend
-React · Next.js (App & Pages Router) · TypeScript · JavaScript (ES6+) · Redux Toolkit · React Query · Zustand · GSAP · Framer Motion · Three.js · Tailwind CSS · Shadcn/UI · Responsive Design · Performance Optimization
+- React.js & Next.js (App/Pages Router)
+- TypeScript & JavaScript (ES6+)
+- State: Redux Toolkit, React Query, Zustand
+- Animations: GSAP, Framer Motion, Three.js
+- Styling: Tailwind CSS, Shadcn/UI, MUI, Bootstrap
+- Other: HTML5, CSS3, Responsive Design, Performance Optimization
 
-### Backend & Others
-Directus (Headless CMS) · Node.js · REST & GraphQL · JWT/OAuth · Docker · Vercel · Netlify · Firebase · GitHub Actions
+### Backend & DevOps
+- Node.js, Directus (Headless CMS)
+- APIs: REST, GraphQL, JWT/OAuth
+- Databases: PostgreSQL, MySQL, SQLite
+- Deployment: Docker, Vercel, Netlify, GitHub Actions, Firebase
 
-### Core
-OOP · Data Structures & Algorithms · System Design (LLD/HLD) · Problem Solving
+### Core Skills
+- OOP, Data Structures & Algorithms
+- Problem Solving, System Design (LLD/HLD)
 
 <br/>
 
 ## 🔥 Featured Projects
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/hishamrehab/os-portfolio">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=hishamrehab&repo=os-portfolio&theme=radical" alt="os-portfolio"/>
-        </a>
-        <br/>
-        <b>Interactive macOS-style Portfolio</b><br/>
-        <sub>React · GSAP · Tailwind · Zustand · Draggable windows & animated dock</sub>
-      </td>
-      <td align="center">
-        <a href="https://github.com/hishamrehab/Apple-iphone-3D-Website">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=hishamrehab&repo=Apple-iphone-3D-Website&theme=radical" alt="Apple iPhone 3D"/>
-        </a>
-        <br/>
-        <b>Animated Apple iPhone 3D Website</b><br/>
-        <sub>React · Three.js · GSAP · Tailwind</sub>
-      </td>
-      <td align="center">
-        <a href="https://github.com/hishamrehab/Storage-Management-Solutions-System">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=hishamrehab&repo=Storage-Management-Solutions-System&theme=radical" alt="Storage Management"/>
-        </a>
-        <br/>
-        <b>Storage Management System</b><br/>
-        <sub>Next.js · TypeScript · Shadcn/UI · Charts · File Upload</sub>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/hishamrehab/Movies-Website">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=hishamrehab&repo=Movies-Website&theme=radical" alt="Movies Website"/>
-        </a>
-        <br/>
-        <b>Ultimate MovieHub</b><br/>
-        <sub>React · Movie API · Responsive Design</sub>
-      </td>
-      <td align="center" colspan="2">
-        <i>More projects on my <a href="https://portfolio-7e535.web.app/">Portfolio</a> → including full-stack SaaS with Directus, AI features, and blockchain concepts</i>
-      </td>
-    </tr>
-  </table>
-</div>
+Here are some of my standout projects showcasing immersive UIs, performance, and full-stack capabilities:
 
-<br/>
+| Project | Description | Tech Stack | Demo/Repo |
+|---------|-------------|------------|-----------|
+| **OS Portfolio** | Interactive macOS-inspired portfolio with draggable windows, animated dock, and terminal. | React, Tailwind CSS, GSAP, Zustand | [Repo](https://github.com/hishamrehab/os-portfolio) / [Live](https://portfolio-7e535.web.app/) |
+| **Apple iPhone 3D Website** | Animated 3D product showcase with smooth interactions. | React, Three.js, GSAP, Tailwind CSS | [Repo](https://github.com/hishamrehab/Apple-iphone-3D-Website) |
+| **Storage Management System** | Dashboard for storage solutions with charts and file uploads. | Next.js, TypeScript, Shadcn/UI, AppWrite | [Repo](https://github.com/hishamrehab/Storage-Management-Solutions-System) |
+| **Movies Website** | Feature-rich movie discovery app with API integrations. | React, JavaScript, Responsive Design | [Repo](https://github.com/hishamrehab/Movies-Website) |
+| **Xora AI** | AI-themed project (details in repo). | JavaScript, React | [Repo](https://github.com/hishamrehab/Xora-AI) |
 
-## 📈 GitHub Stats & Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hishamrehab&theme=react-dark&hide_border=true" width="100%" alt="Activity Graph"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=hishamrehab.hishamrehab" alt="Visitors"/>
-  <br/><br/>
-  <i>Thanks for stopping by! Feel free to explore my repos, star ⭐ your favorites, or connect on LinkedIn.</i>
-</div>
-
-<!-- Optional fun fact or quote -->
-> "Making the complex feel simple and delightful — one component at a time." ✨
+Explore more on my [Portfolio](https://portfolio-7e535.web.app/), including confidential full-stack SaaS like N-vestia (AI investment platform) and OnSoftrwares (SaaS marketplace with blockchain
