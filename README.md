@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00C8FF&center=true&vCenter=true&width=800&lines=Hello%2C+I'm+Hisham+Saeed+Rehab;Frontend+Engineer+%7C+React+%26+Next.js;Building+immersive+%26+performant+web+experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00C8FF&center=true&vCenter=true&width=1000&lines=Hello%2C+I'm+Hisham+Saeed+Rehab;Frontend+Engineer+%7C+React.js+%26+Next.js;Building+immersive+%26+performant+web+experiences" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -53,7 +53,7 @@ I'm a passionate **Frontend Engineer** based in **Cairo, Egypt**, specializing i
 
 I'm proficient in modern JavaScript (ES6+), animations with GSAP/Framer Motion/Three.js, state management (Redux Toolkit, React Query, Zustand), and full-stack tools like Node.js, GraphQL, and Docker. I thrive in agile teams, emphasizing clean architecture, OOP, DSA, and system design.
 
-Open to **remote/hybrid opportunities** in frontend/full-stack development. Let's connect! 🚀
+Open to **remote/onsite/hybrid opportunities** in frontend/full-stack development. Let's connect! 🚀
 
 <br/>
 
