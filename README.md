@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00C8FF&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Hisham+Saeed+Rehab;Frontend+Engineer+%7C+React+%26+Next.js;Building+immersive+%26+performant+web+experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00C8FF&center=true&vCenter=true&width=800&lines=Hello%2C+I'm+Hisham+Saeed+Rehab;Frontend+Engineer+%7C+React+%26+Next.js;Building+immersive+%26+performant+web+experiences" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -95,4 +95,32 @@ Here are some of my standout projects showcasing immersive UIs, performance, and
 | **Movies Website** | Feature-rich movie discovery app with API integrations. | React, JavaScript, Responsive Design | [Repo](https://github.com/hishamrehab/Movies-Website) |
 | **Xora AI** | AI-themed project (details in repo). | JavaScript, React | [Repo](https://github.com/hishamrehab/Xora-AI) |
 
-Explore more on my [Portfolio](https://portfolio-7e535.web.app/), including confidential full-stack SaaS like N-vestia (AI investment platform) and OnSoftrwares (SaaS marketplace with blockchain
+Explore more on my [Portfolio](https://portfolio-7e535.web.app/), including confidential full-stack SaaS like N-vestia (AI investment platform) and OnSoftrwares (SaaS marketplace with blockchain elements).
+
+<br/>
+
+## 📈 GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hishamrehab&theme=react-dark&hide_border=true&area=true" width="100%" alt="Activity Graph"/>
+</div>
+
+<br/>
+
+## 📚 Courses & Certifications
+
+- React - The Complete Guide (Maximilian Schwarzmüller)
+- Next.js 15 & React - The Complete Guide (Maximilian Schwarzmüller)
+- JavaScript The Complete Guide (Maximilian Schwarzmüller)
+- Advanced CSS and Sass: Flexbox, Grid, Animations (Jonas Schmedtmann)
+- Harvard CS50 – Full Computer Science University Course (freeCodeCamp)
+
+<br/>
+
+<div align="center">
+  <i>Thanks for visiting! Star ⭐ a repo if you like it, or reach out for collaborations.</i>
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hishamrehab&theme=radical" alt="Profile Summary" />
+</div>
+
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House
