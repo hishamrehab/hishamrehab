@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00C8FF&center=true&vCenter=true&width=1000&lines=Hello%2C+I'm+Hisham+Saeed+Rehab;Frontend+Engineer+%7C+React.js+%26+Next.js;Building+immersive+%26+performant+web+experiences" alt="Typing SVG" />
 </div>
 
-<br
+<br/>
   <img src="https://komarev.com/ghpvc/?username=hishamrehab&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
 
