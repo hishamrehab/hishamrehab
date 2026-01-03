@@ -2,9 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00C8FF&center=true&vCenter=true&width=1000&lines=Hello%2C+I'm+Hisham+Saeed+Rehab;Frontend+Engineer+%7C+React.js+%26+Next.js;Building+immersive+%26+performant+web+experiences" alt="Typing SVG" />
 </div>
 
-<br/>
-
-<div align="center">
+<br
   <img src="https://komarev.com/ghpvc/?username=hishamrehab&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
 
@@ -31,17 +29,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=hishamrehab&theme=radical&no-frame=true&margin-w=15&row=1&column=6" alt="Trophies" />
 </div>
 
-<!-- Quick stats -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hishamrehab&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hishamrehab&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="180" alt="languages graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hishamrehab&theme=radical&hide_border=true" height="180" alt="streak graph" />
-</div>
-
-<br/>
 
 ## 👨‍💻 About Me
 
