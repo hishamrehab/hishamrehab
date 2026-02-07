@@ -22,14 +22,6 @@
 </div>
 
 <br/>
-
-
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hishamrehab&theme=radical&no-frame=true&margin-w=15&row=1&column=6" alt="Trophies" />
-</div>
-
-
 ## 👨‍💻 About Me
 
 I'm a passionate **Frontend Engineer** based in **Cairo, Egypt**, specializing in **React.js** and **Next.js**. With a background in Communications and Computer Engineering, I build interactive, high-performance web applications that deliver seamless user experiences.
