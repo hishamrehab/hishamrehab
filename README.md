@@ -26,7 +26,7 @@
 
 I'm a passionate **Frontend Engineer** based in **Cairo, Egypt**, specializing in **React.js** and **Next.js**. With a background in Communications and Computer Engineering, I build interactive, high-performance web applications that deliver seamless user experiences.
 
-- **Current Role:** Full Stack Developer at DATAC (Jan 2025 – Present), where I single-handedly deliver CMS-driven projects using React, Next.js, TypeScript, and Directus.
+- **Current Role:**Front End Developer at DATA C (Jan 2025 – Present), where I single-handedly deliver CMS-driven projects using React, Next.js, TypeScript, and Directus.
 - **Freelance Experience:** Developing responsive web apps with a focus on user engagement and scalability (Feb 2024 – 2025).
 - **Education:** Bachelor of Engineering from Faculty of Engineering; Nano-degree in Front-End Development from Information Technology Institute (ITI).
 
