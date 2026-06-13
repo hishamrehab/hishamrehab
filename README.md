@@ -54,7 +54,6 @@ I focus on clean architecture, strong UX, and production-ready code. Open to **r
 ## 🎓 Education
 
 - **B.E.** — Faculty of Engineering
-- **Nano-degree in Front-End Development** — Information Technology Institute (ITI)
 
 <br/>
 
