@@ -1,7 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00C8FF&center=true&vCenter=true&width=1000&lines=Hello%2C+I'm+Hisham+Saeed+Rehab;Frontend+Engineer+%7C+React.js+%26+Next.js;Building+immersive+%26+performant+web+experiences" alt="Typing SVG" />
-</div>
-  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00C8FF&center=true&vCenter=true&width=1000&lines=Hello%2C+I'm+Hisham+Saeed+Rehab;Frontend+Engineer+%7C+React.js+%26+Next.js;Building+performant+%26+user-focused+web+experiences" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -22,17 +20,41 @@
 </div>
 
 <br/>
+
 ## 👨‍💻 About Me
 
-I'm a passionate **Frontend Engineer** based in **Cairo, Egypt**, specializing in **React.js** and **Next.js**. With a background in Communications and Computer Engineering, I build interactive, high-performance web applications that deliver seamless user experiences.
+Frontend Engineer with a background in **Communications and Computer Engineering**. I specialize in **React.js** and **Next.js**, building scalable, high-performance web applications — from enterprise admin portals to immersive interactive experiences.
 
-- **Current Role:**Front End Developer at DATA C (Jan 2025 – Present), where I single-handedly deliver CMS-driven projects using React, Next.js, TypeScript, and Directus.
-- **Freelance Experience:** Developing responsive web apps with a focus on user engagement and scalability (Feb 2024 – 2025).
-- **Education:** Bachelor of Engineering from Faculty of Engineering; Nano-degree in Front-End Development from Information Technology Institute (ITI).
+I focus on clean architecture, strong UX, and production-ready code. Open to **remote, onsite, and hybrid** frontend opportunities.
 
-I'm proficient in modern JavaScript (ES6+), animations with GSAP/Framer Motion/Three.js, state management (Redux Toolkit, React Query, Zustand), and full-stack tools like Node.js, GraphQL, and Docker. I thrive in agile teams, emphasizing clean architecture, OOP, DSA, and system design.
+<br/>
 
-Open to **remote/onsite/hybrid opportunities** in frontend/full-stack development. Let's connect! 🚀
+## 💼 Work Experience
+
+**Front End Developer** · Secured Smart Systems  
+`Mar 2026 – Present` · Cairo, Egypt
+
+- Build enterprise admin portals for large-scale clients, including **TMG (Talaat Moustafa Group)**
+- Deliver the **Membership Admin Portal** — full member lifecycle management, multi-step registration, General Assembly tracking, waiting lists, and quick registration
+- Work with **React, TypeScript, Redux Toolkit, Fluent UI, i18next (AR/EN RTL), OIDC**, and REST APIs via an admin gateway
+
+**Front End Developer** · DATA C  
+`Jan 2025 – Mar 2026`
+
+- Led frontend delivery of CMS-driven projects using **React, Next.js, TypeScript**, and **Directus**
+- Built responsive, content-managed web applications end to end
+
+**Freelance Front End Developer**  
+`Feb 2024 – Jan 2025`
+
+- Developed responsive web apps focused on user engagement, performance, and scalability
+
+<br/>
+
+## 🎓 Education
+
+- **B.E.** — Faculty of Engineering
+- **Nano-degree in Front-End Development** — Information Technology Institute (ITI)
 
 <br/>
 
@@ -42,39 +64,52 @@ Open to **remote/onsite/hybrid opportunities** in frontend/full-stack developmen
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,threejs,gsap,html,css,git,docker,vite,vercel,nodejs,graphql,postgres,firebase" alt="Tech Stack" />
 </div>
 
-### Frontend
-- React.js & Next.js (App/Pages Router)
-- TypeScript & JavaScript (ES6+)
-- State: Redux Toolkit, React Query, Zustand
-- Animations: GSAP, Framer Motion, Three.js
-- Styling: Tailwind CSS, Shadcn/UI, MUI, Bootstrap
-- Other: HTML5, CSS3, Responsive Design, Performance Optimization
+<details>
+<summary><b>Frontend</b></summary>
+<br/>
 
-### Backend & DevOps
-- Node.js, Directus (Headless CMS)
-- APIs: REST, GraphQL, JWT/OAuth
-- Databases: PostgreSQL, MySQL, SQLite
-- Deployment: Docker, Vercel, Netlify, GitHub Actions, Firebase
+- **Frameworks:** React.js, Next.js (App & Pages Router)
+- **Languages:** TypeScript, JavaScript (ES6+)
+- **State:** Redux Toolkit, React Query, Zustand
+- **UI:** Fluent UI, Tailwind CSS, Shadcn/UI, MUI, Bootstrap
+- **Animation:** GSAP, Framer Motion, Three.js
+- **i18n:** i18next (Arabic/English, RTL)
+- **Other:** HTML5, CSS3, responsive design, performance optimization
 
-### Core Skills
-- OOP, Data Structures & Algorithms
-- Problem Solving, System Design (LLD/HLD)
+</details>
+
+<details>
+<summary><b>Backend & DevOps</b></summary>
+<br/>
+
+- **Runtime & CMS:** Node.js, Directus
+- **APIs & Auth:** REST, GraphQL, JWT, OAuth, OIDC
+- **Databases:** PostgreSQL, MySQL, SQLite
+- **Deployment:** Docker, Vercel, Netlify, GitHub Actions, Firebase
+
+</details>
+
+<details>
+<summary><b>Core Skills</b></summary>
+<br/>
+
+- OOP · Data Structures & Algorithms · Problem Solving · System Design (LLD/HLD)
+
+</details>
 
 <br/>
 
 ## 🔥 Featured Projects
 
-Here are some of my standout projects showcasing immersive UIs, performance, and full-stack capabilities:
+| Project | Description | Stack | Link |
+|:--|:--|:--|:--|
+| **TMG Membership Admin Portal** | Enterprise portal for TMG staff — registration wizard, member dashboards, General Assembly attendance, waiting lists, PDF/Excel exports | React, TS, Redux, Fluent UI, i18next, OIDC | Private |
+| **OS Portfolio** | macOS-inspired portfolio with draggable windows, animated dock, and terminal | React, Tailwind, GSAP, Zustand | [Live](https://portfolio-7e535.web.app/) · [Repo](https://github.com/hishamrehab/os-portfolio) |
+| **Apple iPhone 3D Website** | 3D product showcase with smooth scroll-driven animations | React, Three.js, GSAP, Tailwind | [Repo](https://github.com/hishamrehab/Apple-iphone-3D-Website) |
+| **Storage Management System** | Dashboard with charts, file uploads, and storage analytics | Next.js, TS, Shadcn/UI, AppWrite | [Repo](https://github.com/hishamrehab/Storage-Management-Solutions-System) |
+| **Movies Website** | Movie discovery app with search, filters, and API integration | React, JavaScript | [Repo](https://github.com/hishamrehab/Movies-Website) |
 
-| Project | Description | Tech Stack | Demo/Repo |
-|---------|-------------|------------|-----------|
-| **OS Portfolio** | Interactive macOS-inspired portfolio with draggable windows, animated dock, and terminal. | React, Tailwind CSS, GSAP, Zustand | [Repo](https://github.com/hishamrehab/os-portfolio) / [Live](https://portfolio-7e535.web.app/) |
-| **Apple iPhone 3D Website** | Animated 3D product showcase with smooth interactions. | React, Three.js, GSAP, Tailwind CSS | [Repo](https://github.com/hishamrehab/Apple-iphone-3D-Website) |
-| **Storage Management System** | Dashboard for storage solutions with charts and file uploads. | Next.js, TypeScript, Shadcn/UI, AppWrite | [Repo](https://github.com/hishamrehab/Storage-Management-Solutions-System) |
-| **Movies Website** | Feature-rich movie discovery app with API integrations. | React, JavaScript, Responsive Design | [Repo](https://github.com/hishamrehab/Movies-Website) |
-| **Xora AI** | AI-themed project (details in repo). | JavaScript, React | [Repo](https://github.com/hishamrehab/Xora-AI) |
-
-Explore more on my [Portfolio](https://portfolio-7e535.web.app/), including confidential full-stack SaaS like N-vestia (AI investment platform) and OnSoftrwares (SaaS marketplace with blockchain elements).
+> More on my [Portfolio](https://portfolio-7e535.web.app/) — including confidential SaaS work such as **N-vestia** (AI investment platform) and **OnSoftrwares** (SaaS marketplace).
 
 <br/>
 
@@ -88,18 +123,18 @@ Explore more on my [Portfolio](https://portfolio-7e535.web.app/), including conf
 
 ## 📚 Courses & Certifications
 
-- React - The Complete Guide (Maximilian Schwarzmüller)
-- Next.js 15 & React - The Complete Guide (Maximilian Schwarzmüller)
-- JavaScript The Complete Guide (Maximilian Schwarzmüller)
+- React — The Complete Guide (Maximilian Schwarzmüller)
+- Next.js 15 & React — The Complete Guide (Maximilian Schwarzmüller)
+- JavaScript — The Complete Guide (Maximilian Schwarzmüller)
 - Advanced CSS and Sass: Flexbox, Grid, Animations (Jonas Schmedtmann)
-- Harvard CS50 – Full Computer Science University Course (freeCodeCamp)
+- Harvard CS50 — Full Computer Science Course (freeCodeCamp)
 
 <br/>
 
 <div align="center">
   <i>Thanks for visiting! Star ⭐ a repo if you like it, or reach out for collaborations.</i>
-  <br/>
+  <br/><br/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hishamrehab&theme=radical" alt="Profile Summary" />
 </div>
 
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+> "Code is like humor. When you have to explain it, it’s bad." — Cory House
