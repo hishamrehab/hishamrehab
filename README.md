@@ -23,7 +23,7 @@
 
 ## 👨‍💻 About Me
 
-Frontend Engineer with a background in **Communications and Computer Engineering**. I specialize in **React.js** and **Next.js**, building scalable, high-performance web applications — from enterprise admin portals to immersive interactive experiences.
+Frontend Engineer specializing in **React.js** and **Next.js**, building scalable, high-performance web applications — from enterprise admin portals to immersive interactive experiences.
 
 I focus on clean architecture, strong UX, and production-ready code. Open to **remote, onsite, and hybrid** frontend opportunities.
 
