@@ -32,7 +32,7 @@ I focus on clean architecture, strong UX, and production-ready code. Open to **r
 ## 💼 Work Experience
 
 **Front End Developer** · Secured Smart Systems  
-`Mar 2026 – Present` · Cairo, Egypt
+`Jen 2026 – Present` · Cairo, Egypt
 
 - Build enterprise admin portals for large-scale clients, including **TMG (Talaat Moustafa Group)**
 - Deliver the **Membership Admin Portal** — full member lifecycle management, multi-step registration, General Assembly tracking, waiting lists, and quick registration
